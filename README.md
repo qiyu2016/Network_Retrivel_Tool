@@ -6,3 +6,5 @@ FSCN：
 LIU Q, WANG K, LI Y, et al. A novel function-structure concept network construction and analysis method for a smart product design system [J]. Advanced Engineering Informatics, 2022, 51: 101502.
 https://doi.org/10.1016/j.aei.2021.101502
 
+
+NodeExtract_RandomWalk.py   --->  using CSV file to generate Network file

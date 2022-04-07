@@ -12,6 +12,6 @@ NodeExtract_RandomWalk.py   --->  using CSV file to generate Network file
 
 Degree_distribution.py   --->  analyze the degree distribution of nodes of the Network (power-law distribution)
 
-
+Num_Steps.py   --->  Given a node, analyze the number of nodes at different path distances from the specified node. (the shortest path)
 
 nodespathlenthsum02.xlsx   --->  The statistical results of nodes according to the shortest path  

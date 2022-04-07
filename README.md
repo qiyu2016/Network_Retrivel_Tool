@@ -7,4 +7,5 @@ LIU Q, WANG K, LI Y, et al. A novel function-structure concept network construct
 https://doi.org/10.1016/j.aei.2021.101502
 
 
+
 NodeExtract_RandomWalk.py   --->  using CSV file to generate Network file

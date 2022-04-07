@@ -9,3 +9,8 @@ https://doi.org/10.1016/j.aei.2021.101502
 
 
 NodeExtract_RandomWalk.py   --->  using CSV file to generate Network file
+
+Degree_distribution.py   --->  analyze the degree distribution of nodes of the Network (power-law distribution)
+
+
+

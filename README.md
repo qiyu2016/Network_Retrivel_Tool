@@ -14,3 +14,4 @@ Degree_distribution.py   --->  analyze the degree distribution of nodes of the N
 
 
 
+nodespathlenthsum02.xlsx   --->  The statistical results of nodes according to the shortest path  
